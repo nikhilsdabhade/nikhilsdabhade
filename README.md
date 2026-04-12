@@ -4,15 +4,15 @@
 ---
 
 ### 🚀 About Me
-- Frontend Developer with **1+ year experience** building scalable, data-intensive applications  
+- Frontend Developer with **1+ year experience** building scalable, data intensive applications  
 - Currently working at a **YC S22 startup (CompUp)**  
 - Strong focus on **performance optimization, virtualization, and reusable UI systems**  
-- Built and shipped **production-level analytics features** used across products  
+- Built and shipped **production level analytics features** used across products  
 
 ---
 
 ### 🧠 What I Work On
-- ⚡ High-performance React applications  
+- ⚡ High performance React applications  
 - 📊 Data visualization (Apache ECharts, Canvas)  
 - 🌳 Virtualized UI systems (large datasets, nested trees)  
 - 🧩 Reusable component architecture  
@@ -22,7 +22,7 @@
 ### 📦 Featured Project
 #### 🌳 React Virtualized Tree
 - A reusable React component for rendering **large hierarchical datasets efficiently**
-- Built using **TypeScript + Canvas-based virtualization (Konva)**
+- Built using **TypeScript + Canvas based virtualization (Konva)**
 - Designed for **performance at scale**
 
 🔗 NPM: https://www.npmjs.com/package/@parallelbytes/react-virtualized-tree  
