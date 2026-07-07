@@ -1,50 +1,82 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Frontend Developer | React • TypeScript • Performance • Data Visualization</h3>
+# Hi there, I'm Nikhil 👋
+
+Building fast, scalable web applications and developer tools.
+
+Currently:
+- 🚀 Building **IngestX** — a headless data ingestion engine for CSV & Excel
+- 🌳 Building **React Virtualized Tree**
+- ❤️ Contributing to open source
+- 📖 Learning system design
 
 ---
 
-### 🚀 About Me
-- Frontend Developer with **1+ year experience** building scalable, data intensive applications  
-- Currently working at a **YC S22 startup (CompUp)**  
-- Strong focus on **performance optimization, virtualization, and reusable UI systems**  
-- Built and shipped **production level analytics features** used across products  
+## About Me
+
+- 💼 Frontend Engineer with experience in **React**, **TypeScript**, and modern web technologies.
+- ⚡ Interested in rendering performance, virtualization, developer experience, and data visualization.
+- 🌱 Always learning by building products and contributing to open source.
 
 ---
 
-### 🧠 What I Work On
-- ⚡ High performance React applications  
-- 📊 Data visualization (Apache ECharts, Canvas)  
-- 🌳 Virtualized UI systems (large datasets, nested trees)  
-- 🧩 Reusable component architecture  
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+**Languages**  
+TypeScript • JavaScript • HTML • CSS
+
+**Frontend**  
+React • Next.js • Zustand • Material UI • Tailwind CSS 
+
+**Tools**  
+Vite • Webpack • Git • GitHub • ESLint • Vitest • Jest
+
+**Backend**  
+Node.js • Express
+
+</td>
+
+<td valign="top" width="40%" align="center">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nikhilsdabhade&layout=compact&theme=transparent&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📦 Featured Project
-#### 🌳 React Virtualized Tree
-- A reusable React component for rendering **large hierarchical datasets efficiently**
-- Built using **TypeScript + Canvas based virtualization (Konva)**
-- Designed for **performance at scale**
+## Featured Projects
 
-🔗 NPM: https://www.npmjs.com/package/@parallelbytes/react-virtualized-tree  
-🔗 GitHub: https://github.com/ParallelBytes/Virualized-Tree-View  
-🔗 Demo: https://virualized-tree-view.vercel.app/
+### 🚀 IngestX
+A headless, high-performance data ingestion engine for CSV & Excel.
 
----
+- Chunk-based processing
+- Schema validation
+- Async validation
+- Browser-friendly
+- TypeScript-first
 
-### 🛠 Tech Stack
-**Frontend:** React, TypeScript, JavaScript (ES6+), Next.js  
-**State:** Zustand, Context API  
-**UI:** Material UI, HTML5, CSS3  
-**Data & Visualization:** REST APIs, Apache ECharts, Canvas  
-**Performance:** Virtualization, Code Splitting, Web Vitals  
+🔗 https://github.com/ParallelBytes/IngestX
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/nikhil-dabhade" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+### 🌳 React Virtualized Tree
+
+Canvas-powered and DOM-powered tree component capable of rendering massive datasets efficiently.
+
+🔗 https://github.com/ParallelBytes/react-virtualized-tree
 
 ---
+
+## Let's Connect
+
+- Portfolio: [nikhildabhade.com](https://www.nikhildabhade.com/)
+- LinkedIn: [linkedin.com/in/nikhil-dabhade](https://www.linkedin.com/in/nikhil-dabhade/)
+- X: [x.com/nikhilsdabhade](https://x.com/nikhilsdabhade)
+
+---
+
+> Building tools that developers enjoy using.
