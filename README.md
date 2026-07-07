@@ -76,7 +76,3 @@ Canvas-powered and DOM-powered tree component capable of rendering massive datas
 - Portfolio: [nikhildabhade.com](https://www.nikhildabhade.com/)
 - LinkedIn: [linkedin.com/in/nikhil-dabhade](https://www.linkedin.com/in/nikhil-dabhade/)
 - X: [x.com/nikhilsdabhade](https://x.com/nikhilsdabhade)
-
----
-
-> Building tools that developers enjoy using.
